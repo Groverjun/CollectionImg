@@ -1,2 +1,2 @@
 # CollectionImg
-![背景图](bg,jpg)
+![背景图](bg.jpg)
